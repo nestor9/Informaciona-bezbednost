@@ -26,8 +26,8 @@ public class AsymetricKeyDecryption {
 	//Dekriptuje tajni kljuc privatnim kljucem
 	//Tajnim kljucem dekriptuje podatke
 	
-	private static final String IN_FILE = "./data/univerzitet_enc2.xml";
-	private static final String OUT_FILE = "./data/univerzitet_dec2.xml";
+	private static final String IN_FILE = "./data/email_enc2.xml";
+	private static final String OUT_FILE = "./data/email_dec2.xml";
 	private static final String KEY_STORE_FILE = "./data/primer.jks";
 
 	static {

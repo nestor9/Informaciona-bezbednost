@@ -19,7 +19,7 @@ import org.w3c.dom.NodeList;
 
 public class VerifySignatureEnveloped {
 	
-private static final String IN_FILE = "./data/univerzitet_signed1.xml";
+private static final String IN_FILE = "./data/email_signed1.xml";
 	
     static {
     	//staticka inicijalizacija

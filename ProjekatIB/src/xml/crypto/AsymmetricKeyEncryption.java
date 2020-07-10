@@ -34,8 +34,8 @@ public class AsymmetricKeyEncryption {
 	//Kriptuje tajni kljuc javnim kljucem
 	//Kriptovani tajni kljuc se stavlja kao KeyInfo kriptovanog elementa
 	
-	private static final String IN_FILE = "./data/univerzitet.xml";
-	private static final String OUT_FILE = "./data/univerzitet_enc2.xml";
+	private static final String IN_FILE = "./data/email.xml";
+	private static final String OUT_FILE = "./data/email_enc2.xml";
 	private static final String KEY_STORE_FILE = "./data/primer.jks";
 
 	static {
