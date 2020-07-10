@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><elektronskaPosta naziv="MAIL">
+	<email id="1" naziv="Gmail">
+		<odsek id="E" naziv="Elektro"><xenc:EncryptedData xmlns:xenc="http://www.w3.org/2001/04/xmlenc#" Type="http://www.w3.org/2001/04/xmlenc#Content"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#tripledes-cbc"/><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:KeyName>Kriptovani tajni kljuc</ds:KeyName>
+<xenc:EncryptedKey xmlns:xenc="http://www.w3.org/2001/04/xmlenc#"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/><xenc:CipherData><xenc:CipherValue>E3UnkIltgyT88eUYDhlneVRnwzbkjCAdw8LcXqvr2+nIUOiqY4nWtiOshK9DgcAIycElBsFru+cq
+DX8qNTY0BlCJHayVJBYLTD9phdbgtHKQReQuisnfp0m+4QDaRucNf4O3zksnDLrYyg4xCrGo8/Lr
+6twMNSmsS1hP/z7Sg5s=</xenc:CipherValue></xenc:CipherData></xenc:EncryptedKey></ds:KeyInfo><xenc:CipherData><xenc:CipherValue>3dww8Q68N5UjKRCoq+S8T/cbQTKCSeOtaEeLEagMPCG9DOJSJnO+klAIWuSrpCaJ6C2NjI0iX+7r
+BX+40JuMiJXo1V8BhLdJKezTHSv39FAsWMuuiJgmgxeyo6v5OEWL4q0VKdzL3jHn7p7wmxgTSkF1
++B7fuvvvQESG1HpFD8uhFhOWaFmo1cyv51mSGKvaN9/X0Os8u40KOdoKs41rdZANr9cGFn16sqz1
+w2hh1n+cm+Dxy5lvFMBC9lipEFY6Ly0713MJEc1sVn8JKFxuUoqEjikvTCh8CbUqVDLQgXrxdRc7
+6N1gFZI3DRMwEE42S+I1sx9h0HpSsRt+Svx5hgtCh8g075Flexiw98KkyOU1Jzd+rc6THGhkorRh
+m5glgrEYepDhJN746eCQjng2Qtwb1mBR43e9x45hsEV//61mp9KLLyvjq3I2ENEECRGr//KSqJlu
+n14GotyA6eo8XqmwPki8+/Uj1myS94RZGcsuRXWyOhBUTQRFrajmAWYybMbNXQjkuWfJdtapN8ix
+NkWN1NCwKOcfzsa8qolG4ilHX7tPRzA5bdTLdXq7faPOfdjdyYQ0SmLH0j89sv9q3azEC4CqyCuH
+5doYNP4hZJ2DVLPAq1QGopuYwwhXH1cwSu8+KcVGAzXSnwIo9VNUkXxweXw2corao9ax1NxJY0MW
++XHcAan8+TngOiMrEzYyfM4NeeKJIHAVbn9fzOB8eQzV9ykjS+shFyZiJRTUjqnPdRElqEcCFrOq
+3/68Os2NSIUAvSTfv7R8zFUh5eOU6L7A2YSrhCnlI1/ThOlOyYhIu10UxRaphwYKimsrHbYSTedh
+ASaRgS5IiW3qrQO+FYOPM+7ujSF3/6T+uFMYwdwwoYNVKMcB/cgvmaeHTgwn5/jeCsqGOHTdWdbp
+7kTkMq1jLpMQAgzxuZlAXxzqhC/QxDVw+CbqnareexnoIUOXsJxnfLtZ71GmnRDLXdmWLssIJPOI
+WOxBvoKsKHwEdpFAwOZCAU59hQ8yU8HjPAFOKrHdh918hilSG8/PzswOs6Hvj8VbEBC+8fPinxfj
+dwY7dlfD5/8Axfjk6BrXdWOsDS6NPyTWeLvkYtlT4BBJVDUGaei4OWL7KE5Y6NE8i6c6bAtFeior
+95R3FwyXz+RPIl3e7gUqZsEpfS3//SBpxw==</xenc:CipherValue></xenc:CipherData></xenc:EncryptedData></odsek>
+		<odsek id="IM" naziv="Menadzment">
+			<student brojIndeksa="1122" ime="Svetlana" prezime="Tamnic">
+				<polozenIspit datum="2003-08-10" nastavnik="Jela" ocena="6">
+					<predmet>Ekonomija</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2003-08-10" nastavnik="Vaso" ocena="7">
+					<predmet>Fizicko</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2003-08-10" nastavnik="Ilija" ocena="8">
+					<predmet>Matematika</predmet>
+				</polozenIspit>
+			</student>
+			<student brojIndeksa="1133" ime="Mira" prezime="MIric">
+				<polozenIspit datum="2003-08-10" nastavnik="Pero" ocena="9">
+					<predmet>Ekonomija</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2003-09-10" nastavnik="Vaso" ocena="9">
+					<predmet>Fizicko</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2003-10-10" nastavnik="Ilija" ocena="8">
+					<predmet>Matematika</predmet>
+				</polozenIspit>
+			</student>
+		</odsek>
+	</email>
+	<email id="2" naziv="Yahoo">
+		<odsek id="E" naziv="Opsta ekonomija">
+			<student brojIndeksa="1122" ime="Lijlja" prezime="Radic">
+				<polozenIspit datum="2002-08-10" nastavnik="Pero" ocena="6">
+					<predmet>Ekonomija 1</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2002-08-10" nastavnik="Vaso" ocena="7">
+					<predmet>Fizicko</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2002-08-10" nastavnik="Ilija" ocena="8">
+					<predmet>Makro ekonomija</predmet>
+				</polozenIspit>
+			</student>
+			<student brojIndeksa="1133" ime="Tamara" prezime="Jovic">
+				<polozenIspit datum="2002-08-10" nastavnik="Pero" ocena="10">
+					<predmet>Ekonomija 1</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2002-08-10" nastavnik="Vaso" ocena="10">
+					<predmet>Fizicko</predmet>
+				</polozenIspit>
+				<polozenIspit datum="2002-08-10" nastavnik="Ilija" ocena="10">
+					<predmet>Makro ekonomija</predmet>
+				</polozenIspit>
+			</student>
+		</odsek>
+	</email>
+</elektronskaPosta>
